@@ -13,7 +13,6 @@ Making the deck was super easy because it was just extruding a sketch of a recta
 #### Trucks
 ![Trucks_Photo](Images/Trucks.png)
 
-Making the trucks was quite simple if you just follow what the instructions tell you to do, when the trucks were changed it was also pretty easy to follow except for one part. The one time that I got stuck was when I changed something but something broke and it didn't break in the instuctions so I had to just figure it out myself.
 
 #### Wheel and Bearing
 ![Wheel_and_Bearing](Images/WheelPic.png)
