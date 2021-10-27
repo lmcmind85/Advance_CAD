@@ -11,7 +11,7 @@ Following the instructions along with the gif showing you what to do makes craft
 
 Making the deck was super easy because it was just extruding a sketch of a rectangle and a cirle on each end to make a rounded edge. Using the split tool to seperate a part into differnet peices is a handy tool. 
 #### Trucks
-![Trucks_Photo](Images/Trucks.png)
+![Trucks_Photo](Images/trucksPic.png)
 
 
 #### Wheel and Bearing
