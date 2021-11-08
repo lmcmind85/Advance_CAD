@@ -27,3 +27,4 @@ Fastening the trucks to the board and adding screwsto the holes was simple. Revo
 
 ## Making Lego
 ![Lego](Images/brickpic.png)
+Variables are critical to use so that we are able to make differnet configurations with the height, rows, and collums of the lego. The shell tool was usefull to "shell" out the inside of the brick to the prefered surface. 
