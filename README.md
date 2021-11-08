@@ -26,4 +26,4 @@ Fastening the trucks to the board and adding screwsto the holes was simple. Revo
 ### How the Pros Do it.
 
 ## Making Lego
-![Lego](Images/FullBoardPic.png)
+![Lego](Images/brickpic.png)
