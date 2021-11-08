@@ -19,4 +19,11 @@ This was not difficult. It gave me a refresher on dimensioning a sketch over a c
 
 #### Skateboard 
 ![Skateboard](Images/FullBoardPic.png)
-Fastening the trucks to the board and adding screwsto the holes was simple. Revolve mates were required to attach the to wheels to the trucks so they could spin the right way. 
+Fastening the trucks to the board and adding screwsto the holes was simple. Revolve mates were required to attach the to wheels to the trucks so they could spin the right way.
+
+## Brick
+
+### How the Pros Do it.
+
+## Making Lego
+![Lego](Images/FullBoardPic.png)
