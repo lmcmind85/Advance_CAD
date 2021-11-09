@@ -32,6 +32,8 @@ Fastening the trucks to the board and adding screwsto the holes was simple. Revo
 
 Variables are critical to use so that we are able to make differnet configurations with the height, rows, and collums of the lego. The shell tool was usefull to "shell" out the inside of the brick to the prefered surface. 
 
+### One Brick to Rule Them All: Configurations 
+
 ## Multi-Tool
 
 Make an acrylic Multi-Tool with many differnet uses. 
