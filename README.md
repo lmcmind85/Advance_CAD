@@ -40,3 +40,9 @@ Make an acrylic Multi-Tool with many differnet uses.
 ![Multi-Tool](Images/Multi-Tool1pic.png)
 
 This Multi-Tool has 3 mm circles either spaced 10 mm or 1 inch apart. There are also circles at 30, 45, and 60 degrees from the bottom edge. All the circles are 5 mm from the edge of the tool. It is a "multi" tool because we can use it for many different measurements or angles. 
+
+
+### 2
+![Multi-Tool](Images/Multi-Tool2Drawing.png)
+
+In this step, we put our part into a drawing tab. I put the top face down with a 1:1 ratio and added red lines around the perimeter to make a complete cut. The text tool allows us to etch (blue) text into our part when we laser cut it. 
