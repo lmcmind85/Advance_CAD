@@ -38,7 +38,7 @@ Variables are critical to use so that we are able to make differnet configuratio
 We use configurations to make 3 different versions. We have Brick, Plate, and Tile; which change the height and the studs. We have a configuration that changes the number of rows and columns so we can make any size brick. Lastly, we have a configuration to change the color. This was done through a custom feature. We also used a custom feature to change the name of the part based on the brick type, size, and color. This will be helpful in an assembly. 
 
 ###  Building Blocks: Duck 
-![Lego](Images/duckpic.png.png)
+![Lego](Images/duckpic.png)
 
 In parts assembly, I used "snap mode" to easily snap together different types of bricks to make a duck. I merely had to drag the mate connecter to the desired area and rotate (q) the block to the right position.
 
