@@ -33,7 +33,9 @@ Fastening the trucks to the board and adding screwsto the holes was simple. Revo
 Variables are critical to use so that we are able to make differnet configurations with the height, rows, and collums of the lego. The shell tool was usefull to "shell" out the inside of the brick to the prefered surface. 
 
 ### One Brick to Rule Them All: Configurations 
+![Lego](Images/brickpic2.png)
 
+We use configurations to make 3 different versions. We have Brick, Plate, and Tile; which change the height and the studs. We have a configuration that changes the number of rows and columns so we can make any size brick. Lastly, we have a configuration to change the color. This was done through a custom feature. We also used a custom feature to change the name of the part based on the brick type, size, and color. This will be helpful in an assembly. 
 ## Multi-Tool
 
 Make an acrylic Multi-Tool with many differnet uses. 
