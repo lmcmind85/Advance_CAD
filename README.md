@@ -27,6 +27,9 @@ Fastening the trucks to the board and adding screwsto the holes was simple. Revo
 
 ## Brick
 
+ [Brick in Onshape](https://cvilleschools.onshape.com/documents/8c72551a77111bee520458c7/w/4ac99fc8dde052bfbcc8316d/e/57ee1fc9eac4c6c5c466c045?configuration=List_SwXPmVXyAXGZJ1%3DB%3BList_XPcLdCBoIWrw8x%3DBlock%3BList_goXkIErly0BeVz%3D_1x4&renderMode=0&uiState=618d31417d00ae10b43e2c90)
+
+
 ### How the Pros Do it: Making lego
 ![Lego](Images/brickpic.png)
 
@@ -45,6 +48,7 @@ In parts assembly, I used "snap mode" to easily snap together different types of
 ## Multi-Tool
 
 Make an acrylic Multi-Tool with many differnet uses. 
+ [Multi-Tool in Onshape](https://cvilleschools.onshape.com/documents/d2a8c3aafd68b394ccfac519/w/ff6f706d2c0a54b23bfbb45f/e/d900245b5d8e715c0517d839?renderMode=0&uiState=618d30e1ec512e26d94c557b)
 
 ### 1
 ![Multi-Tool](Images/Multi-Tool1pic.png)
