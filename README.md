@@ -3,6 +3,8 @@
 
 Create a skateboard, and all the parts required to make it, in OnShape by following the given directions.
 
+ [Skateboard in Onshape](https://cvilleschools.onshape.com/documents/5dd951d5ef2426783ad6a0fb/w/c136a19b89cf6a090f1fc244/e/7c48be8f672c3db963985413?renderMode=0&uiState=618d316f846b426cb8270039)
+
 ##### Board Reflection
 
 Following the instructions along with the gif showing you what to do makes crafting the parts pretty easy but slightly tedious The split tool allowed me to make a singular line cut and split the part in two. The other main thing that i was taught in this assignment was the move face tool. The move face tool is not very complicated at all and is really just a transfrom tool but shifting a face in a different direction, which is really nice to have.
