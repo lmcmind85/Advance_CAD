@@ -56,3 +56,8 @@ This Multi-Tool has 3 mm circles either spaced 10 mm or 1 inch apart. There are 
 ![Multi-Tool](Images/Multi-Tool2Drawing.png)
 
 In this step, we put our part into a drawing tab. I put the top face down with a 1:1 ratio and added red lines around the perimeter to make a complete cut. The text tool allows us to etch (blue) text into our part when we laser cut it. 
+
+### 3
+![Multi-Tool](Images/Multi-Tool2Drawing.png)
+
+In an Assembly, I instered a #4-40 nut. I "edited in context" which allowed me to go into the part studio with the nut. I took the perimeter of the niut and cut it from the tool to make a part.    
